@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photier.ConsoleUI", "Photier.ConsoleUI\Photier.ConsoleUI.csproj", "{256E8D58-DA7D-4FFA-8F44-B3BF3F87A693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{2B29F009-6CEE-47C0-8A0D-0AC13943FE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{5463C4DE-0A35-4245-905D-7AD2A9569D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256E8D58-DA7D-4FFA-8F44-B3BF3F87A693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256E8D58-DA7D-4FFA-8F44-B3BF3F87A693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256E8D58-DA7D-4FFA-8F44-B3BF3F87A693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256E8D58-DA7D-4FFA-8F44-B3BF3F87A693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B29F009-6CEE-47C0-8A0D-0AC13943FE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B29F009-6CEE-47C0-8A0D-0AC13943FE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B29F009-6CEE-47C0-8A0D-0AC13943FE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B29F009-6CEE-47C0-8A0D-0AC13943FE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5463C4DE-0A35-4245-905D-7AD2A9569D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5463C4DE-0A35-4245-905D-7AD2A9569D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5463C4DE-0A35-4245-905D-7AD2A9569D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5463C4DE-0A35-4245-905D-7AD2A9569D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90FB371C-6585-4B35-92BD-37C4F9153F04}
+	EndGlobalSection
+EndGlobal
